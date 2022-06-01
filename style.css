@@ -600,16 +600,7 @@ header {
 
 .sessao-carreira {
   width: 100%;
-  height: 520px;
-  background-color: #c5c5c5;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.sessao-carreira2 {
-  width: 100%;
-  height: 700px;
+  height: 1200px;
   background-color: #c5c5c5;
   display: flex;
   flex-direction: column;
